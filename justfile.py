@@ -1,4 +1,4 @@
 a = 5
 b = 9
-add = (a+b)
+add = print(a+b)
 print(add)
